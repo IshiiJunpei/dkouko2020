@@ -1,6 +1,6 @@
 # 第41回南北海道考古学情報交換会
 
-![sanbonsugi](/home/ishii/Dropbox/2020年道南考古会計業務/201205第41回情報交換会/01第41回交換会ウェブページ/fig/sanbonsugi.JPG)
+![sanbonsugi](fig/sanbonsugi.JPG)
 
 ## 開催要項
 
