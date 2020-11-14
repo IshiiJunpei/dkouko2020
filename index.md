@@ -18,8 +18,14 @@
 - 後　援　せたな町教育委員会・道南ブロック博物館施設等連絡協議会
 
 ## ウェブ配信
-配信用URL
-質問用Slido
+
+Zoomによるウェブ配信とSlidoによる質問受付を行います。
+
+- 配信用Zoom　https://us02web.zoom.us/j/82396424027（ミーティングID　823 9642 4027）
+
+- 質問用Slido　https://app.sli.do/event/jefgp3fg
+
+  ![](fig/QR41thSlido.png)
 
 
 ## 日程
