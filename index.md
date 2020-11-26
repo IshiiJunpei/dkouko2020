@@ -1,6 +1,6 @@
 # 第41回南北海道考古学情報交換会
 
-![sanbonsugi](fig/sanbonsugi.JPG)
+![sanbonsugi](fig/setana.png)
 
 ## お知らせ
 
