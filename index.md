@@ -53,7 +53,7 @@ Zoomによるウェブ配信を行います。
 
 - 「渡島・檜山地域の発掘調査」　
   - [電電公社合宿舎遺跡](report/denden/merge_denden.pdf)・[権現台場遺跡](report/gongen/merge.pdf)・[大船H遺跡](report/oohune/merge_oohune.pdf)（道南歴史文化振興財団）40分
-  - [史跡上之国館跡のうち花沢館跡](report/hanazawa/hanazawa/pdf)（上ノ国町）20分
+  - [史跡上之国館跡のうち花沢館跡](report/hanazawa/hanazawa.pdf)（上ノ国町）20分
   - [共立2遺跡・豊野4遺跡](report/suemitu.pdf)（北海道埋蔵文化財センター）20分
 - 「渡島・檜山地域の考古学的調査及び取組み」　
   - [箱館戦争戦跡の考古学的調査](report/2020川汲台場調査報告_道南考古発表資料.pdf)（箱館戦争戦跡調査プロジェクト）15分
